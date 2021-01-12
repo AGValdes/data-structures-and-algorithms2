@@ -6,7 +6,7 @@ namespace reversed_array
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          
         }
     }
 }
