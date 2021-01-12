@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reversed-array", "..\..\Documents\Projects\Codefellows\401\data-structures-and-algorithms\data-structures-and-algorithms2\challenges\reversed-array\reversed-array\reversed-array.csproj", "{AD2D0BF4-3D39-41CB-B585-00354EDBEE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2D0BF4-3D39-41CB-B585-00354EDBEE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2D0BF4-3D39-41CB-B585-00354EDBEE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2D0BF4-3D39-41CB-B585-00354EDBEE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2D0BF4-3D39-41CB-B585-00354EDBEE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261BA78F-AF2D-4DE0-82C0-C5B0D6B7B512}
+	EndGlobalSection
+EndGlobal
