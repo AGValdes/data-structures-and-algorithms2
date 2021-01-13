@@ -1,7 +1,7 @@
 # Binary Search
 
 ## Challenge
-Write a function that takes in 2 parameters, a sorted array and a search key. Use binary search method to return the index of the array's element that matches the search key, or return –1 if the element does not exist  
+Write a function that takes in 2 parameters, a sorted array and a search key. Use binary search method to return the index of the array's element that matches the search key, or return â€“1 if the element does not exist  
 
 ## Approach & Efficiency
 Take in sorted array and search value 
@@ -20,7 +20,7 @@ New Midpoint = currentIdx/2
 
 If the search value is greater than the midpoint, find the midpoint between the original midpoint and the end of the array. 
 
-New Midpoint = (ArrLength – currentIdx/2) + currentIdx 
+New Midpoint = (ArrLength â€“ currentIdx/2) + currentIdx 
 
  
 
@@ -35,3 +35,4 @@ Time: O(n);
 Space: O(1);
 
 ## Solution
+![Whiteboard](../../assets/binarySearch.png)
