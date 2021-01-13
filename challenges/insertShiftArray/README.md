@@ -6,4 +6,4 @@ First we capture our inputs, then find the length of the incoming array. Using t
 
 ## Solution
 Hopefully it works this time!
-![Whiteboard Image](./assets/insertShiftArray.png)
+![Whiteboard Image](./../assets/insertShiftArray.png)
